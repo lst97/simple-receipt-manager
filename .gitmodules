@@ -1,0 +1,6 @@
+[submodule "simple-receipt-manager-backend"]
+	path = simple-receipt-manager-backend
+	url = https://github.com/lst97/simple-receipt-manager-backend.git
+[submodule "simple-receipt-manager-frontend"]
+	path = simple-receipt-manager-frontend
+	url = https://github.com/lst97/simple-receipt-manager-frontend.git
