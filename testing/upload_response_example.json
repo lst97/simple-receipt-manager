@@ -1,0 +1,52 @@
+{
+  "files": [
+    {
+      "hash": "ffbf1f0e1e3e0704",
+      "receipt": {
+        "ABN": "37147272517",
+        "date": "14/01/2023",
+        "file_name": "2023-01-14-192227_002.jpeg",
+        "merchant_name": "FU YAO TRADING PTY. LTD.",
+        "merchant_phone": "",
+        "payer": "Avery Moore",
+        "payment_method": "CASH",
+        "receipt_no": "",
+        "share_with": ["Emily Davis"],
+        "time": "13:59",
+        "total": "22.06"
+      }
+    },
+    {
+      "hash": "bc3effffff3f3cf8",
+      "receipt": {
+        "ABN": "57104012893",
+        "date": "04/01/2023",
+        "file_name": "2023-01-14-192227_003.jpeg",
+        "merchant_name": "COSTCO WHOLESALE AUSTRALIA, PTY. LTD.",
+        "merchant_phone": "(03) 9652 7700",
+        "payer": "Avery Moore",
+        "payment_method": "CASH",
+        "receipt_no": "",
+        "share_with": ["Emily Davis", "Ethan Taylor", "TEST"],
+        "time": "14:21",
+        "total": "89.89"
+      }
+    }
+  ],
+  "group_id": "63c2617a442332ac4666b261",
+  "remaining": 0,
+  "request_id": "bf31e0a0-e87f-4248-b867-c393a8c5ab11",
+  "total_files": 2,
+  "users": [
+    "Avery Moore",
+    "Emily Davis",
+    "Ethan Taylor",
+    "Isabella Anderson",
+    "Jacob Martinez",
+    "Madison Garcia",
+    "Michael Rodriguez",
+    "Nathan Martin",
+    "Nicholas Thompson",
+    "Sophia Jones"
+  ]
+}
